@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hairahquae.uds.pw/sitemap.xml
